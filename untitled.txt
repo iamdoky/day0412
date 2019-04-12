@@ -1,0 +1,14 @@
+
+print('hi')
+
+a 
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+x = np.arange(-20,20,0.1)
+y = np.sin(x)
+plt.plot (x,y)
+
+

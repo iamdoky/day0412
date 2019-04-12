@@ -1,0 +1,2 @@
+$ jupyter nbconvert --to script test2.ipynb
+$ jupyter nbconvert --to script *.ipynb
